@@ -44,3 +44,9 @@
   background: #0052d4;
   border-radius: 2px;
 }
+
+@media only screen and (max-width: 600px) {
+  .navbar-end a {
+    font-size: 0.8rem;
+  }
+}

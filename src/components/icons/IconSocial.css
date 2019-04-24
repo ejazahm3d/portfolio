@@ -1,0 +1,17 @@
+.icons-social {
+  font-size: 3.5rem;
+}
+.icon-color {
+  color: #f6f6f6;
+}
+.icon-color:hover {
+  animation-name: hoverUpDown;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+  transition: all;
+}
+@media only screen and (max-width: 600px) {
+  .icons-social {
+    font-size: 2.2rem;
+  }
+}
