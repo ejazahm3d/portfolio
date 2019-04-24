@@ -1,0 +1,5 @@
+@keyframes hoverUpDown {
+  50% {
+    transform: translateY(-10px);
+  }
+}
